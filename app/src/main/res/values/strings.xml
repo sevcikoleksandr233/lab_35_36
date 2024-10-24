@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Fragment App</string>
+    <string name="first_fragment_title">First Fragment</string>
+    <string name="second_fragment_title">Second Fragment</string>
+    <string name="third_fragment_title">Third Fragment</string>
+    <string name="go_to_second">Go to Second Fragment</string>
+    <string name="go_to_third">Go to Third Fragment</string>
+    <string name="back_to_first">Back to First Fragment</string>
+</resources>

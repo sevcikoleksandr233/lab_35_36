@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мій фрагментний додаток</string>
+    <string name="first_fragment_title">Перший фрагмент</string>
+    <string name="second_fragment_title">Другий фрагмент</string>
+    <string name="third_fragment_title">Третій фрагмент</string>
+    <string name="go_to_second">Перейти до другого фрагмента</string>
+    <string name="go_to_third">Перейти до третього фрагмента</string>
+    <string name="back_to_first">Назад до першого фрагмента</string>
+</resources>
